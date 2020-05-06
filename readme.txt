@@ -8,4 +8,4 @@ add some info
 
 git track changes
 
-creat a new branch 
+creat a new branch edit in master branch
