@@ -11,4 +11,5 @@ git track changes
 creat a new branch edit in master branch
 creat a new branch dev branch edit 
 sed insert
+fix bug 001
 mergy --no-ff test
