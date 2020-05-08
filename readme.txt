@@ -10,4 +10,5 @@ git track changes
 
 creat a new branch edit in master branch
 creat a new branch dev branch edit 
+sed insert
 mergy --no-ff test
