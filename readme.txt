@@ -8,3 +8,5 @@ add some info
 
 git track changes
 
+git edit in windows
+
