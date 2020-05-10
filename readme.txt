@@ -10,3 +10,7 @@ git track changes
 
 git edit in windows
 
+creat a new branch edit in master branch
+creat a new branch dev branch edit 
+fix bug 001
+mergy --no-ff test
